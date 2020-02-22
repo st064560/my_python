@@ -5,4 +5,4 @@ def function_1(x):
     return 4
 
 var_1 = float(input("Введите значение x: "))
-function_1(var_1)
+print(function_1(var_1))
